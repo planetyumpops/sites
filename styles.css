@@ -1,0 +1,46 @@
+body 
+
+{
+   font-family:  Tahoma, san-serif;
+}
+
+
+body {
+ background-image: url("images/bg-sky.jpg");
+ background-color: #cccccc;
+ background-size: 100%;
+}
+
+tr:nth-child(even) {
+  background-color: #CCCCCC;
+}
+
+h1 {align-content: center;
+   font-size: 24px;
+}
+
+
+h2 {font-size: 22px;
+
+}
+
+h3 {font-size: 20px;
+	
+}
+
+h4 {font-size: 18px;
+	
+}
+
+h5 {font-size: 16px;
+	
+}
+
+h6 {font-size: 14px;
+
+}
+
+div {
+  display: block;
+}
+
